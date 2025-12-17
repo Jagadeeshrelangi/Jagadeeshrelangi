@@ -1,27 +1,21 @@
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jagadeeshrelangi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <h1 align="center">👋 Hey, I'm Venkata Jagadeesh Gowda Relangi</h1>
 <h3 align="center">AI & ML Student | Flutter Developer | Tech Enthusiast</h3>
-
-<p align="center">
-  <a href="mailto:venkatajagadeesh1629@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/jagadeesh-gowda-2b6908283">LinkedIn</a> •
-  <a href="https://github.com/Jagadeeshrelangi">GitHub</a>
-</p>
 
 ---
 
 ## 🌟 About Me
-I’m a **B.Tech (AI & ML) student** at **Aditya Engineering College**, passionate about building **Flutter applications**, exploring **Machine Learning**, and solving real-world problems using programming fundamentals.
+I’m a **B.Tech (AI & ML) student** at **Aditya Engineering College**, passionate about building **Flutter applications**, exploring **Machine Learning**, and solving real-world problems through programming.
 
 - 🌱 Learning advanced Flutter & ML models  
 - 🤝 GDG Coordinator & Rotaract Club Secretary  
 - 🚀 Open to internships and collaborative projects  
 
 📍 Andhra Pradesh, India  
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jagadeeshrelangi&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -54,23 +48,39 @@ I’m a **B.Tech (AI & ML) student** at **Aditya Engineering College**, passiona
 ## 🚀 Featured Projects
 
 ### 🍔 Swiggy UI Clone (Flutter)
-A Swiggy-inspired food delivery UI built using Flutter.  
-**Tech:** Flutter, Dart  
+Swiggy-inspired food delivery UI built using Flutter.  
 
 
 ---
 
 ### 🧑‍🎓 Student Profile Card App
-A Flutter app displaying student details in a clean card layout.  
-**Tech:** Flutter  
+Flutter app displaying student details in a clean card layout.  
 
 
 ---
 
 ### 🎬 Movie Recommendation System
 Content-based recommendation system using ML techniques.  
-**Tech:** Python, Pandas, Cosine Similarity  
 
+
+---
+
+## 📊 GitHub Activity
+
+### 🔥 Overall Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jagadeeshrelangi&show_icons=true&theme=radical" />
+</p>
+
+### 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeeshrelangi&layout=compact&theme=radical" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jagadeeshrelangi&theme=react-dark" />
+</p>
 
 ---
 
@@ -86,5 +96,17 @@ Content-based recommendation system using ML techniques.
 - Python – Cisco  
 - Java Foundations – Oracle  
 - C Programming – Cisco  
-- Machine Learning using Python – Infosys Springboard
+- Machine Learning using Python – Infosys Springboard  
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/jagadeesh-gowda-2b6908283">🔗 LinkedIn</a> •
+  <a href="https://github.com/Jagadeeshrelangi">💻 GitHub</a>
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.* 🚀
 
