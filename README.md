@@ -1,134 +1,83 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Venkata Jagadeesh Gowda Relangi</h1>
-<h3 align="center">B.Tech AI & ML Student | Flutter Developer | ML Enthusiast</h3>
+# 👋 Hey, I’m Venkata Jagadeesh Gowda Relangi
 
-<p align="center">
-  <a href="mailto:venkatajagadeesh1629@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square">
-  </a>
-  <a href="https://linkedin.com/in/jagadeesh-gowda-2b6908283">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square">
-  </a>
-  <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh,%20India-green?style=flat-square">
-</p>
+Turning ideas into apps 📱 and insights into solutions 💡
 
 ---
 
-## 🚀 About Me
-I’m a **passionate and self-motivated B.Tech 3rd-year student** specializing in **Artificial Intelligence & Machine Learning** at **Aditya Engineering College**.
+## 🌟 About Me
 
-I enjoy building **mobile applications using Flutter**, exploring **machine learning concepts with Python**, and strengthening my **problem-solving skills** through programming and DSA fundamentals.
+I’m a **B.Tech (AI & ML) student** passionate about building interactive **Flutter apps**, exploring **Machine Learning models**, and solving real-world problems through code.
 
-I also actively contribute to **technical communities and leadership roles**, helping organize events, workshops, and student initiatives.
+- 🌱 Continuously learning ML models, advanced Flutter, and competitive coding  
+- 🤝 Active in tech communities as a GDG Coordinator & Rotaract Club Secretary  
+- 🚀 Always open to internships and collaborative projects  
 
----
-
-## 🎓 Education
-- **B.Tech – Artificial Intelligence & Machine Learning**  
-  *Aditya Engineering College, Surampalem (2023 – 2027)*  
-
-- **Intermediate (MPC)**  
-  *Sri Chaitanya Junior College, Amalapuram (2021 – 2023)*  
+📍 Andhra Pradesh, India  
+📫 Reach me at: **venkatajagadeesh1629@gmail.com**
 
 ---
 
-## 🏆 Experience & Leadership
-- **Coordinator – Google Developer Groups (GDG)**  
-  *Aditya University (2025 – 2027)*  
+## 🛠️ Skills
 
-- **Secretary – Rotaract Club (RRC AEC)**  
-  *Surampalem (2025 – 2026)*  
+### 💻 Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- **Flutter Development Intern**  
-  *Technical Hub, Surampalem (May 2025 – June 2025)*  
-
-- **Trainee – Technical Hub**  
-  Trained in programming fundamentals, problem solving, and software development concepts.
-
----
-
-## 🛠️ Technical Skills
-### 💻 Programming
-- Python | Java | C  
-
-### 📱 App Development
-- Flutter | Dart  
-
-### 🌐 Web & Database
-- HTML | JavaScript | SQL  
-
-### 🧠 Core Concepts
-- Object Oriented Programming  
-- Data Structures & Algorithms (Basics)  
-- Problem Solving  
-
-### 🤝 Soft Skills
-- Teamwork  
-- Leadership  
-- Communication  
+### 📱 App & Web
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🍔 Swiggy UI Clone (Flutter)
-- Built a Swiggy-like food delivery **UI using Flutter & Dart**
-- Responsive layouts, dynamic lists, image carousels
-- Reusable widgets and smooth navigation
-
----
-
-### 🧑‍🎓 Student Profile Card App (Flutter)
-- Mobile app displaying student details in a clean card UI
-- Stateful widgets and gesture handling
-- Focused on reusable components and UX
+### ⭐ Swiggy UI Clone (Flutter)
+A clean **Flutter UI project** inspired by Swiggy.  
+**Tech:** Flutter, Dart  
+**Features:** Responsive layouts, reusable widgets, app navigation  
 
 ---
 
-### 🎬 Movie Recommendation System (Python, ML)
-- Content-based movie recommendation system
-- Used **Pandas, NumPy & Cosine Similarity**
-- Trained on a dataset of **5000+ movies**
+### ⭐ Student Profile Card App (Flutter)
+A mobile app showing student details with elegant UI.  
+**Tech:** Flutter, Dart  
+**Features:** Stateful widgets, gesture handling  
+
+---
+
+### ⭐ Movie Recommendation System (Python + ML)
+A content-based movie recommender using similarity measures.  
+**Tech:** Python, Pandas, Scikit Learn  
 
 ---
 
 ## 📜 Certifications
-- **Python Certification** – Cisco Networking Academy  
-- **Java Foundations** – Oracle Academy  
-- **C Programming** – Cisco Networking Academy  
-- **Machine Learning using Python** – Infosys Springboard  
+
+- Python Certification – Cisco  
+- Java Foundations – Oracle  
+- C Programming – Cisco  
+- Machine Learning using Python – Infosys Springboard
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Flutter Development  
-- Machine Learning Models  
-- Competitive Programming  
+## 📈 GitHub Stats
+
+![Jagadeesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagadeeshrelangi&show_icons=true&theme=radical)
 
 ---
 
-## 🌍 Organizations
-- Google Developer Groups (GDG) – Core Team Member  
-- Rotaract Club of RRC AEC – Secretary  
-- Red Cross Society – Active Volunteer  
-- SPIC MACAY – Board Member  
+## 📫 Connect with Me
+
+🔗 LinkedIn: https://linkedin.com/in/jagadeesh-gowda-2b6908283  
+📧 Email: venkatajagadeesh1629@gmail.com
 
 ---
 
-## 🎯 Interests
-- Reading Books  
-- Playing Cricket  
-- Running  
-- Watching Movies  
-- Learning New Tech Tools  
-
----
-
-## 📫 Let’s Connect!
-- 📧 **Email:** venkatajagadeesh1629@gmail.com  
-- 🔗 **LinkedIn:** https://linkedin.com/in/jagadeesh-gowda-2b6908283  
-
----
-
-⭐ *If you like my work, feel free to star my repositories and connect with me!*
+👉 *Let’s build cool things together!* 🚀
 
